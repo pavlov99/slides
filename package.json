@@ -1,0 +1,21 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "Slides for @pavlov99 presentations",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavlov99/slides.git"
+  },
+  "author": "Kirill Pavlov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavlov99/slides/issues"
+  },
+  "homepage": "https://github.com/pavlov99/slides",
+  "dependencies": {
+    "cleaver": "^0.7.2"
+  }
+}
